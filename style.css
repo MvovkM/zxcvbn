@@ -1,0 +1,69 @@
+main{
+    font-size: 20px;
+    color: whitesmoke;
+    background-color: purple;
+    width: 700px;
+margin-left: 35%;
+
+}
+.mybtn{
+    	text-align: center; 
+    	padding: 40px; 
+    	border: solid 1px #777777; 
+    	color: lightgreen; 
+    	background: red;
+    	tansition: all .3s linear;
+    	-webkit-transition: all .3s linear;
+    	-moz-transition: all .3s linear; 	
+    	text-transform: uppercase;
+        border-radius: 50%;
+        font-size: 30px;
+    }
+    .mybtn:hover {
+    	color: #fff;
+    	background: #333;
+    	tansition: all .3s linear;
+    	-webkit-transition: all .3s linear;
+    	-moz-transition: all .3s linear; 
+    }
+   .n{
+    text-align: center;
+    font-size: 40px;
+    font-family: cursive;
+   }
+   
+header{
+    
+}
+body{
+    font-family: sans-serif;
+}
+.u{
+    height: 400px;
+}
+
+.y{
+    font-size: 50px;
+    text-align: center;
+    border: 7px solid black;
+    border-radius: 50%;
+    padding: 200px;
+    color: wheat;
+    background-color: black;
+    width: 300px;
+    justify-content: center;
+    margin-left: 35%;
+}
+
+body{
+    background-color: yellowgreen;
+}
+
+div{
+    display: flex;
+    width: 500px;
+    text-align: center;
+}
+main p{
+    text-align: center;
+}
